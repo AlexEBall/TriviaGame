@@ -1,9 +1,49 @@
+* {
+	box-sizing: border-box;
+}
 body {
-	background: lightblue;
+	font-family: "Fjord One", serif;
+}
+h1 {
+	font-family: "BioRhyme", serif;
+	color: #F8F8FF;
+	text-shadow: 2px 2px 3px #030301;
+	margin-bottom: 2rem;
+}
+h2 {
+	font-family: "Fjord One", serif;
+	color: #F8F8FF;
+	text-shadow: 2px 2px 3px #030301;
+}
+h3, h4, h5 {
+	font-family: "PT Sans Narrow", sans-serif;
+	color: #F8F8FF;
+	text-shadow: 2px 2px 3px #030301;
+}
+hr {
+	background-color: #F8F8FF;
+}
+h4 {
+	margin-top: 2rem;
 }
 .jumbotron {
-	background: #DBBEA1;
+	background: rgba(7, 17, 8, 0.5);
 	width: 900px;
-	height: 500px;
+	height: 550px;
 	margin: 8rem auto 0 auto;
+}
+.startButton {
+	background: #6CA6C1;
+}
+.startButton:hover {
+	background: #66C7F4;
+}
+.answer {
+	font-family: "PT Sans Narrow", sans-serif;
+	color: #F8F8FF;
+	text-shadow: 2px 2px 3px #030301;
+	border-color: transparent;
+}
+#restart {
+	margin-top: 2rem;
 }

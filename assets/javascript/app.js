@@ -3,93 +3,113 @@ triviaObject = {
 				questions: [
 							{
 							"question": "To whom does the title of Mary Shelly's 'Frankenstein' refer?",
-							"A": "A: The Author",
-							"B": "B: The Monster",
-							"C": "C: The Doctor",
-							"D": "D: The Narrator",
+							"A": "The Author",
+							"B": "The Monster",
+							"C": "The Doctor",
+							"D": "The Narrator",
 							"answer": "C",
-							"winningImage": "assets/images/tenor.gif"
+							"winningImage": "assets/images/frankenstien.gif",
+							"incorrectImage": "assets/images/bb.gif",
+							"answerText": "The Doctor"
 							},
 							{
 							"question": "What is the Great Gatsby's first name?",
-							"A": "A: Tom",
-							"B": "B: Robert",
-							"C": "C: Nick",
-							"D": "D: Jay",
+							"A": "Tom",
+							"B": "Robert",
+							"C": "Nick",
+							"D": "Jay",
 							"answer": "D",
-							"winningImage": "assets/images/black.gif"
+							"winningImage": "assets/images/giphy-downsized-large.gif",
+							"incorrectImage": "assets/images/check.gif",
+							"answerText": "Jay Gatsby"
 							},
 							{
 							"question": "In Nabokov's 'Lolita', what is Lolita's real name?",
-							"A": "A: Dolores",
-							"B": "B: Lolita",
-							"C": "C: Margaret",
-							"D": "D: Alice",
+							"A": "Dolores",
+							"B": "Lolita",
+							"C": "Margaret",
+							"D": "Alice",
 							"answer": "A",
-							"winningImage": "assets/images/black.gif"
+							"winningImage": "assets/images/lolita.gif",
+							"incorrectImage": "assets/images/USED - reading problem.gif",
+							"answerText": "Dolores"
 							},
 							{
 							"question": "According to Dante Allegheri's 'Inferno', how many circles of hell are there?",
-							"A": "A: 1",
-							"B": "B: 3",
-							"C": "C: 7",
-							"D": "D: 9",
+							"A": "1",
+							"B": "3",
+							"C": "7",
+							"D": "9",
 							"answer": "D",
-							"winningImage": "assets/images/black.gif"
+							"winningImage": "assets/images/anigif_original-4605-1395942903-5.gif",
+							"incorrectImage": "assets/images/6db4AjR.gif",
+							"answerText": "9"
 							},
 							{
 							"question": "Which of the following from, 'The Master and Margarita', is the cat?",
-							"A": "A: Behemoth",
-							"B": "B: Felix",
-							"C": "C: Leo",
-							"D": "D: Beelzebub",
+							"A": "Behemoth",
+							"B": "Felix",
+							"C": "Leo",
+							"D": "Beelzebub",
 							"answer": "A",
-							"winningImage": "assets/images/black.gif"
+							"winningImage": "assets/images/fCf7GKP.gif",
+							"incorrectImage": "assets/images/tumblr_m2slzf5DMe1rrfo01o2_250.gif",
+							"answerText": "Behemoth"
 							},
 							{
 							"question": "What is the subtitle of Thoreou's 'Walden'?",
-							"A": "A: Woodland Survival Guide",
-							"B": "B: Woodland Living",
-							"C": "C: Life in the Woods",
-							"D": "D: How to Live in the Woods",
+							"A": "Woodland Survival Guide",
+							"B": "Woodland Living",
+							"C": "Life in the Woods",
+							"D": "How to Live in the Woods",
 							"answer": "C",
-							"winningImage": "assets/images/black.gif"
+							"winningImage": "assets/images/walden.gif",
+							"incorrectImage": "assets/images/giphy.gif",
+							"answerText": "Life in the Woods"
 							},
 							{
 							"question": "What story did Edgar Allen Poe not write?",
-							"A": "A: The Cask of Amontillado",
-							"B": "B: The Masque of the Red Death",
-							"C": "C: Turn of the Screw",
-							"D": "D: Tell-Tale Heart",
+							"A": "The Cask of Amontillado",
+							"B": "The Masque of the Red Death",
+							"C": "Turn of the Screw",
+							"D": "Tell-Tale Heart",
 							"answer": "C",
-							"winningImage": "assets/images/black.gif"
+							"winningImage": "assets/images/poe.gif",
+							"incorrectImage": "assets/images/tumblr_inline_n3siy4wZMu1sb080b.gif",
+							"answerText": "Turn of the Screw"
 							},
 							{
 							"question": "In the poem, 'The Wasteland' by T.S. Eliot, he uses three Sanskrit words: 'Datta. Dayadhvam. Damyata.'. What do they mean??",
-							"A": "A: One. Two. Three.",
-							"B": "B: Give. Sympathize. Control.",
-							"C": "C: Life. Love. Loyalty.",
-							"D": "D: Dance. Sing. Rejoice.",
+							"A": "One. Two. Three.",
+							"B": "Give. Sympathize. Control.",
+							"C": "Life. Love. Loyalty.",
+							"D": "Dance. Sing. Rejoice.",
 							"answer": "B",
-							"winningImage": "assets/images/black.gif"
+							"winningImage": "assets/images/elliot.gif",
+							"incorrectImage": "assets/images/wrong1.gif",
+							"answerText": "Give. Sympathize. Control"
 							},
 							{
 							"question": "In Dostoyefsky's 'Crime and Punishment', what instrument does Raskolnikov use to commit murder?",
-							"A": "A: An Axe",
-							"B": "B: A Knife",
-							"C": "C: A Gun",
-							"D": "D: A Hammer",
+							"A": "An Axe",
+							"B": "A Knife",
+							"C": "A Gun",
+							"D": "A Hammer",
 							"answer": "A",
-							"winningImage": "assets/images/black.gif"
+							"winningImage": "assets/images/candp.gif",
+							"incorrectImage": "assets/images/18519725.gif",
+							"answerText": "an axe"
 							},
 							{
 							"question": "Seminal novel, 'The Grapes of Wrath' by John Steinbeck takes place during what era?",
-							"A": "A: The Civil Rights Movement",
-							"B": "B: The Gold Rush",
-							"C": "C: The Great Depression",
-							"D": "D: The Civil War",
+							"A": "The Civil Rights Movement",
+							"B": "The Gold Rush",
+							"C": "The Great Depression",
+							"D": "The Civil War",
 							"answer": "C",
-							"winningImage": "assets/images/black.gif"
+							"winningImage": "assets/images/grapes.gif",
+							"incorrectImage": "assets/images/gif-so-boring-book-of-mormon.gif",
+							"answerText": "The Great Depression"
 							}
 
 							],
@@ -100,7 +120,7 @@ triviaObject = {
 				questionCounter: 0, 
 
 				// Number used to decrement the seconds
-				number: 45,
+				number: 15,
 
 				// Keep track of statistics for the game
 				correct: 0,
@@ -116,11 +136,11 @@ triviaObject = {
 				renderGame: function() {
 					var $title = $("#title");
 					$title.addClass("text-center")
-					$title.html("<h1>Trivia Game</h1>");
+					$title.html("<h1>Classic Literature Trivia Game</h1><hr>");
 
 					var btn = $("<button>");
-					btn.addClass("btn btn-secondary").text("Start Game");
-					btn.css("margin-top", "3rem");
+					btn.addClass("btn btn-secondary startButton").text("Test Your Knowledge");
+					btn.css("margin-top", "6rem");
 
 					$title.append(btn);
 					
@@ -153,16 +173,16 @@ triviaObject = {
 						container.attr("id", "container");
 
 						time.attr("id", "showTime");
-						time.html("You have " + triviaObject.number + " seconds left");
+						time.html("<h2>You have " + triviaObject.number + " seconds left</h2>");
 
 
 						question.text(triviaObject.questions[triviaObject.questionCounter].question);
 
 
-						answerA.addClass("col-md-10 my-2 p-1 btn-primary answer").attr("data-answer", "A").text(triviaObject.questions[triviaObject.questionCounter].A);
-						answerB.addClass("col-md-10 my-2 p-1 btn-primary answer").attr("data-answer", "B").text(triviaObject.questions[triviaObject.questionCounter].B);
-						answerC.addClass("col-md-10 my-2 p-1 btn-primary answer").attr("data-answer", "C").text(triviaObject.questions[triviaObject.questionCounter].C);
-						answerD.addClass("col-md-10 my-2 p-1 btn-primary answer").attr("data-answer", "D").text(triviaObject.questions[triviaObject.questionCounter].D);
+						answerA.addClass("col-md-10 my-2 p-1 btn-outline-info answer").attr("data-answer", "A").html("<h5>" + triviaObject.questions[triviaObject.questionCounter].A + "</h5>");
+						answerB.addClass("col-md-10 my-2 p-1 btn-outline-info answer").attr("data-answer", "B").html("<h5>" + triviaObject.questions[triviaObject.questionCounter].B + "</h5>");
+						answerC.addClass("col-md-10 my-2 p-1 btn-outline-info answer").attr("data-answer", "C").html("<h5>" + triviaObject.questions[triviaObject.questionCounter].C + "</h5>");
+						answerD.addClass("col-md-10 my-2 p-1 btn-outline-info answer").attr("data-answer", "D").html("<h5>" + triviaObject.questions[triviaObject.questionCounter].D + "</h5>");
 
 						
 						container.append(time).append(question).append(answerA).append(answerB).append(answerC).append(answerD);;
@@ -175,7 +195,7 @@ triviaObject = {
 
 						triviaObject.number--;
 
-						$("#showTime").html("You have " + triviaObject.number + " seconds left");
+						$("#showTime").html("<h2>You have " + triviaObject.number + " seconds left</h2>");
 
 						triviaObject.timesUpNoAnswerGiven();
 
@@ -189,8 +209,8 @@ triviaObject = {
 
 							triviaObject.stopRound();
 
-							$("#showTime").html("The correct answer was " + triviaObject.questions[triviaObject.questionCounter].answer);
-							$("h2").html("<img src='assets/images/Dikembe-Mutombo-No.gif' />");
+							$("#showTime").html("<h3>The correct answer was " + triviaObject.questions[triviaObject.questionCounter].answerText + "</h3>");
+							$("h2").html("<img src='" + triviaObject.questions[triviaObject.questionCounter].incorrectImage + "' />");
 							$("button").remove();
 
 
@@ -216,7 +236,7 @@ triviaObject = {
 
 					triviaObject.showQuestion = setInterval(triviaObject.decrementTime, 1000);
 
-					triviaObject.number = 45;
+					triviaObject.number = 15;
 					$("#container").remove();
 
 					console.log(triviaObject.questionCounter);
@@ -234,16 +254,16 @@ triviaObject = {
 						container.attr("id", "container");
 
 						time.attr("id", "showTime");
-						time.html("You have " + triviaObject.number + " seconds left");
+						time.html("<h2>You have " + triviaObject.number + " seconds left</h2>");
 
 
 						question.text(triviaObject.questions[triviaObject.questionCounter].question);
 
 
-						answerA.addClass("col-md-10 my-2 p-1 btn-primary answer").attr("data-answer", "A").text(triviaObject.questions[triviaObject.questionCounter].A);
-						answerB.addClass("col-md-10 my-2 p-1 btn-primary answer").attr("data-answer", "B").text(triviaObject.questions[triviaObject.questionCounter].B);
-						answerC.addClass("col-md-10 my-2 p-1 btn-primary answer").attr("data-answer", "C").text(triviaObject.questions[triviaObject.questionCounter].C);
-						answerD.addClass("col-md-10 my-2 p-1 btn-primary answer").attr("data-answer", "D").text(triviaObject.questions[triviaObject.questionCounter].D);
+						answerA.addClass("col-md-10 my-2 p-1 btn-outline-info answer").attr("data-answer", "A").html("<h5>" + triviaObject.questions[triviaObject.questionCounter].A + "</h5>");
+						answerB.addClass("col-md-10 my-2 p-1 btn-outline-info answer").attr("data-answer", "B").html("<h5>" + triviaObject.questions[triviaObject.questionCounter].B + "</h5>");
+						answerC.addClass("col-md-10 my-2 p-1 btn-outline-info answer").attr("data-answer", "C").html("<h5>" + triviaObject.questions[triviaObject.questionCounter].C + "</h5>");
+						answerD.addClass("col-md-10 my-2 p-1 btn-outline-info answer").attr("data-answer", "D").html("<h5>" + triviaObject.questions[triviaObject.questionCounter].D + "</h5>");
 
 						
 						container.append(time).append(question).append(answerA).append(answerB).append(answerC).append(answerD);;
@@ -260,8 +280,6 @@ triviaObject = {
 
 				correctOrIncorrectChoice: function() {
 
-					console.log("test");
-
 					if (!triviaObject.gameOn) {
 					
 					return $(".answer").on("click", function() {
@@ -275,12 +293,9 @@ triviaObject = {
 							if (playerChoice === triviaObject.questions[triviaObject.questionCounter].answer) {
 
 								triviaObject.correct++;
-
-								console.log(triviaObject.correct);
-
 								triviaObject.stopRound();
 
-								$("#showTime").html("You got it!");
+								$("#showTime").html("<h3>You got it!</h3>");
 								$("h2").html("<img src='" + triviaObject.questions[triviaObject.questionCounter].winningImage + "' />");
 								$("button").remove();
 
@@ -297,8 +312,8 @@ triviaObject = {
 
 								triviaObject.stopRound();
 
-								$("#showTime").html("The correct answer was " + triviaObject.questions[triviaObject.questionCounter].answer);
-								$("h2").html("<img src='assets/images/Dikembe-Mutombo-No.gif' />");
+								$("#showTime").html("<h3>The correct answer was " + triviaObject.questions[triviaObject.questionCounter].answerText + "</h3>");
+								$("h2").html("<img src='" + triviaObject.questions[triviaObject.questionCounter].incorrectImage + "' />");
 								$("button").remove();
 
 
@@ -307,7 +322,6 @@ triviaObject = {
 								triviaObject.nextQuestion();
 
 								}, 5000);
-
 							}
 
 					});
@@ -316,24 +330,18 @@ triviaObject = {
 
 				},	
 
-				// TODO: Reset button?
-
 				endGame: function() {
 
 						triviaObject.gameOn = true;
 
-						var wins = $("<p>");
-						var losses = $("<p>");
-						var noAnswer = $("<p>");
+						var wins = $("<h4>");
+						var losses = $("<h4>");
+						var noAnswer = $("<h4>");
 						var playAgain = $("<button>");
-
 
 						playAgain.addClass("btn btn-success my-2 mx-auto");
 						playAgain.attr("id", "restart");
 						playAgain.text("Try Again?");
-
-
-
 
 						$("#showTime").html(wins.text("Correct Answers: " + 
 							triviaObject.correct)).append(losses.text("Incorrect Answers: " + 
@@ -342,15 +350,8 @@ triviaObject = {
 
 						$("h2").html(playAgain);
 
-
-						console.log(triviaObject.questionCounter);
-
 						triviaObject.stopRound();
-
-						console.log("over");
-
 						triviaObject.restart();
-
 				},
 
 				restart: function() {
@@ -363,22 +364,34 @@ triviaObject = {
 						triviaObject.incorrect = 0;
 						triviaObject.unanswered = 0;
 
-
-						// $("#title").remove();
 						$("#container").remove();
 
 						triviaObject.renderGame();
 						triviaObject.startGame();
-
-
 					});
-
 
 				}
 
 				}
 
 $(document).ready(function() {
+
+	$.backstretch([
+          "assets/images/Lz1VBIH.png",
+          "assets/images/JBBIvIr.png",
+          "assets/images/NVSPDIX.png",
+          "assets/images/PqhM60k.png",
+          "assets/images/UnSC4tP.png",
+          "assets/images/VnCp5xG.png",
+          "assets/images/PQGcPIn.png",
+          "assets/images/X5sQYNy.png",
+          "assets/images/vRKf0IE.png",
+          "assets/images/5gYdXIh.png",
+          "assets/images/OhuSXTl.png",
+        ], {
+            duration: 12000,
+            fade: 900
+        });
 
 	triviaObject.renderGame();
 	triviaObject.startGame();
