@@ -1,0 +1,9 @@
+body {
+	background: lightblue;
+}
+.jumbotron {
+	background: #DBBEA1;
+	width: 900px;
+	height: 500px;
+	margin: 8rem auto 0 auto;
+}
