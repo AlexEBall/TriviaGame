@@ -12,12 +12,13 @@ Go to [github.com/AlexEBall](https://github.com/AlexEBall) to access my reposito
 + CSS
 + Javascript
 + jQuery
-+ [Backstretch jQuery plugin] (http://www.jquery-backstretch.com/)
++ [Backstretch jQuery plugin](http://www.jquery-backstretch.com/)
 
 ## Authors
 + Alex Edward Ball
 
 ## Acknowledgements
 + [Bootstrap](https://getbootstrap.com/)
-+ [Google Fonts] (https://fonts.google.com/)
++ [Google Fonts](https://fonts.google.com/)
++ Backstretch art from [Rockpaperbooks.com](http://www.rockpaperbooks.com/artists/)
 + Books that have and continue to inspire me
